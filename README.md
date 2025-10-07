@@ -1,148 +1,25 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Omer GIRGINER! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# 👋 Hallo, ik ben Ömer Girginer  
+Welkom op mijn GitHub-profiel!
 
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+## 🧠 Over mij
+- 🇹🇷 Geboren in Turkije, woon nu in Nederland  
+- 🎓 Software Developer student bij Deltion College  
+- 💻 Ik werk graag met HTML, CSS, JavaScript en Python  
+- ⚽️ Ik hou van voetbal, boksen en film kijken  
 
-### 📫 Like to meet me?
+## 🚀 Vaardigheden
+![HTML5](https://img.shields.io/badge/Code-HTML5-orange)
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow)
+![Python](https://img.shields.io/badge/Code-Python-blueviolet)
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+## 📊 Statistieken
+![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=girgineromer3019-dot&show_icons=true&theme=tokyonight)
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+## 🏆 Trofeeën
+![trophy](https://github-profile-trophy.vercel.app/?username=girgineromer3019-dot&theme=onedark)
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C912%20hrs%2021%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-652-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 357.4 kB Used in GitHub's Storage 
- > 
-> 🏆 689 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 32 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1204 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-🌆 Daytime                4027 commits        █████████░░░░░░░░░░░░░░░░   35.13 % 
-🌃 Evening                3609 commits        ████████░░░░░░░░░░░░░░░░░   31.49 % 
-🌙 Night                  2622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1265 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Tuesday                  1559 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Wednesday                1939 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Thursday                 1224 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Friday                   1126 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Saturday                 1613 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Sunday                   2736 commits        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               12 hrs 48 mins      ███████████████████████░░   92.24 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-TSConfig                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-.env file                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-
-🔥 Editors: 
-WebStorm                 10 hrs 51 mins      ████████████████████░░░░░   78.20 % 
-VS Code                  3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-💻 Operating System: 
-Mac                      13 hrs 52 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   37.08 % 
-TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-```
-
-
-
-
- Last Updated on 06/10/2025 00:38:25 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+## 🌐 Contact
+📧 [E-mail](mailto:girgineromer3019@gmail.com)  
+💬 [WhatsApp](https://wa.me/31628617543?text=Hallo%20Omer!)  
+🌍 [Mijn Website](https://girgineromer3019-dot.github.io)
