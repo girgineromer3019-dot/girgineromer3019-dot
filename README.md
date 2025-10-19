@@ -5,7 +5,7 @@ Welkom op mijn GitHub-profiel!
 - 🇹🇷 Geboren in Turkije, woon nu in Nederland  
 - 🎓 Software Developer student bij Deltion College  
 - 💻 Ik werk graag met HTML, CSS, JavaScript en Python  
-- ⚽️ Ik hou van voetbal, boksen en film kijken  
+- ⚽️ Ik hou van voetbal, boksen, zwemmen en boogschieten  
 
 ## 🚀 Vaardigheden
 ![HTML5](https://img.shields.io/badge/Code-HTML5-orange)
