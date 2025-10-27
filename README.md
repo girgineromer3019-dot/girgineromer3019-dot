@@ -4,7 +4,7 @@ Welkom op mijn GitHub-profiel!
 ## 🧠 Over mij
 - 🇹🇷 Geboren in Turkije, woon nu in Nederland  
 - 🎓 Software Developer student bij Deltion College  
-- 💻 Ik werk graag met HTML, CSS, JavaScript, SQL en Python  
+- 💻 Ik werk graag met HTML, CSS, JavaScript en Python  
 - ⚽️ Ik hou van voetbal, boksen en boogschieten  
 
 ## 🚀 Vaardigheden
