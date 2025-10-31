@@ -1,4 +1,5 @@
-# 👋 Hallo, ik ben Ömer Girginer  
+# 👋 Hallo, ik ben Ömer Girginer
+            I'm Ömer Girginer
 Welkom op mijn GitHub-profiel!
 
 ## 🧠 Over mij
