@@ -1,6 +1,8 @@
 # 👋 Hallo, ik ben Ömer Girginer
+# 👋 Hello, I'm Ömer Girginer
 
 Welkom op mijn GitHub-profiel :)
+Welcome to my GitHub profile:)
 
 ## 🧠 Over mij
 - 🇹🇷 Geboren in Turkije, woon nu in Nederland  
