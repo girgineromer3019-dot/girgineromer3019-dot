@@ -22,14 +22,15 @@
 
 ---
 
-## 🧑‍💻 Hakkımda
+## 🧑‍💻 About Me
 
-- 🏠 Meppel, Hollanda’da yaşıyorum  
-- 🎓 Zwolle **Deltion College**’da **ICT Opleiding** öğrencisiyim  
-- 💻 Bildiğim teknolojiler:
+- 🏠 I live in **Meppel/Netherlands**  
+- 🎓 I am studying **Software Development** at **Deltion College** in Zwolle  
+- 💻 Technologies I know:
   - HTML  
   - CSS  
-  - JavaScript  
+  - JavaScript
+  - Python 
 
 ---
 
