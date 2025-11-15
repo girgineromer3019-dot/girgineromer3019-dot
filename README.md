@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Ömer GIRGINER - GitHub Profile Summary</h1>
+  <h1>Ömer Girginer - GitHub Profile Summary</h1>
   <p>
     A tool-inspired README that summarizes my GitHub profile, skills, and background.<br>
     Inspired by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a>.
