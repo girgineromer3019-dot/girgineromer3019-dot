@@ -31,7 +31,7 @@
   - CSS  
   - JavaScript
   - Python 
-
+  - React
 ---
 
 <div align="center">
