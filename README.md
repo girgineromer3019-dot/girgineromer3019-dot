@@ -27,11 +27,12 @@
 - 🏠 I live in **Meppel/Netherlands**  
 - 🎓 I am studying **Software Development** at **Deltion College** in Zwolle  
 - 💻 Technologies I know:
-  - HTML  
-  - CSS  
+  - HTML-CSS
   - JavaScript
   - Python 
   - React
+  - Gıt
+  - Docker
 ---
 
 <div align="center">
