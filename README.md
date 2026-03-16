@@ -31,6 +31,8 @@
   - JavaScript
   - Python 
   - React
+  - Node.Js
+  - MySQL
   - Gıt
   - Docker
 ---
